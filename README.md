@@ -1,8 +1,5 @@
-- 👋 Hi, I’m HumanThe2nd
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 Discord: Dash#5594
+- 👋 Hi, I’m DaSh
+- 📫 Discord: DaSh#7340
 
 <!---
 HumanThe2nd/HumanThe2nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
