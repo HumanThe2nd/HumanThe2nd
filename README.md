@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DaSh
-- 📫 Discord: Danielthe1st
+- 📫 Discord: 1std
 - Only on here to store/share code
 
 <!---
