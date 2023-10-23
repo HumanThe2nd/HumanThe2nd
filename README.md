@@ -1,4 +1,5 @@
 - Daniel
+- 📫 Personal Email: 3shandan@gmail.com
 - 📫 Discord: 1std
 
 <!---
