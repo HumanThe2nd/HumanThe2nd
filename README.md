@@ -3,7 +3,6 @@
 - I'm a rookie programmer
 - My main languages are C and C++
 - My other languages include Python and Java
-- 📫 Personal Email: 3shandan@gmail.com
 - 📫 Discord: 1std
 
 Last updated: 2025-02-20
