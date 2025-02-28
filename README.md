@@ -2,6 +2,7 @@
 - I'm a rookie programmer
 - My main languages are C and C++
 - My other languages include Python and Java
+- 📫 Email: humanthe2nd@gmail.com
 - 📫 Discord: 1std
 <img src="https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/>
 
