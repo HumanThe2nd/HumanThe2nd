@@ -5,7 +5,7 @@
 - 📫 Email: humanthe2nd@gmail.com
 - 📫 Discord: 1std
 
-### Github
+### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/>
 
 ### Leetcode
