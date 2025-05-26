@@ -1,5 +1,5 @@
 # Hi, I'm Human
-- Rookie programmer
+- New to programming
 - Main languages: C and C++
 - Other languages: Python, Java, HTML, CSS, Javascript
 - 📫 Email: humanthe2nd@gmail.com
@@ -11,7 +11,7 @@
 ### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HumanThe1st?theme=dark)
 
-Last updated: 2025-02-27
+Last updated: 2025-05-25
 <!---
 HumanThe2nd/HumanThe2nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
