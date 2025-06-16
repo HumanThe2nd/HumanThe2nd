@@ -1,5 +1,8 @@
-# Hi, I'm Human
-- New to programming
+# Hi, I'm Dan Shan
+- Aliases: Human, 1s, 1sd, etc.
+- Uottawa BASc 2029
+- Rookie programmer
+- Interests: Any projects and competitive programming 
 - Main languages: C and C++
 - Other languages: Python, Java, HTML, CSS, Javascript
 - 📫 Email: humanthe2nd@gmail.com
@@ -11,7 +14,7 @@
 ### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HumanThe1st?theme=dark)
 
-Last updated: 2025-05-25
+Last updated: 2025-06-15
 <!---
 HumanThe2nd/HumanThe2nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
