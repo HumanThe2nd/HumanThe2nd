@@ -7,7 +7,7 @@
 📫 Email: humanthe2nd@gmail.com
 📫 Discord: 1std
 
-## My Website
+### Portfolio
 <https://humanthe2nd.vercel.app>
 
 ### Stats
