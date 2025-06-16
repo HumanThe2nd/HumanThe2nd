@@ -1,12 +1,14 @@
-# Hi, I'm Dan Shan
+# Welcome to my Github, I'm Dan Shan
 - Aliases: Human, 1s, 1sd, etc.
 - Uottawa BASc 2029
-- Rookie programmer
-- Interests: Any projects and competitive programming 
+- Interests: Any projects, competitive programming and sports 
 - Main languages: C and C++
 - Other languages: Python, Java, HTML, CSS, Javascript
-- 📫 Email: humanthe2nd@gmail.com
-- 📫 Discord: 1std
+📫 Email: humanthe2nd@gmail.com
+📫 Discord: 1std
+
+## My Website
+<https://humanthe2nd.vercel.app>
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/>
