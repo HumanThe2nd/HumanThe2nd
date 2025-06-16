@@ -1,4 +1,4 @@
-# Welcome to my Github, I'm Dan Shan
+# Welcome to my Github
 - Aliases: Human, 1s, 1sd, etc.
 - Uottawa BASc 2029
 - Interests: Any projects, competitive programming and sports 
