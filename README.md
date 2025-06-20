@@ -1,6 +1,5 @@
 # Welcome to my Github
 - Aliases: Human, 1s, 1sd, etc.
-- Uottawa BASc 2029
 - Interests: Any projects, competitive programming and sports 
 - Main languages: C and C++
 - Other languages: Python, Java, HTML, CSS, Javascript
