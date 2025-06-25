@@ -3,7 +3,9 @@
 - Interests: Any projects, competitive programming and sports 
 - Main languages: C and C++
 - Other languages: Python, Java, HTML, CSS, Javascript
+
 📫 Email: humanthe2nd@gmail.com
+
 📫 Discord: 1std
 
 ### Portfolio
