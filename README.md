@@ -1,8 +1,12 @@
 # Welcome to my Github
+
+- University of Ottawa engineering student
+
 - Aliases: Human, 1s, 1sd, etc.
+
 - Interests: Projects, competitive programming and sports 
-- Main languages: C and C++
-- Other languages: Python, Java, HTML, CSS, Javascript
+
+- Languages: C/C++, Python, Java, HTML, CSS, Javascript
 
 📫 Email: humanthe2nd@gmail.com
 
