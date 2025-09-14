@@ -1,6 +1,6 @@
 # Welcome to my Github
 
-- University of Ottawa engineering student
+- Uottawa engineering student
 
 - Aliases: Human, 1s, 1sd, etc.
 
