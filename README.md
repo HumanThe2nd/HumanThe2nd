@@ -8,7 +8,8 @@
 
 - Languages: C/C++, Python, Java, HTML, CSS, Javascript
 
-📫 Email: humanthe2nd@gmail.com
+📫 Email: dshan040@uottawa.ca (school)
+          humanthe2nd@gmail.com (personal)
 
 📫 Discord: 1std
 
