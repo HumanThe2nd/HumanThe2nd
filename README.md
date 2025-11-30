@@ -8,12 +8,16 @@
 
 - Languages: C/C++, Python, Java, HTML, CSS, Javascript
 
+## Always looking forward to meeting other programmers of all types. Feel free to reach out!
+
 📫 Email: dshan040@uottawa.ca (school)
           humanthe2nd@gmail.com (personal)
 
 📫 Discord: 1std
 
-### Feel free to visit my portfolio!
+📫 Linkedin: <https://www.linkedin.com/in/danshan1st/>
+
+### My portfolio
 
 <https://humanthe2nd.vercel.app>
 
