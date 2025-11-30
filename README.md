@@ -10,8 +10,7 @@
 
 ## Always looking forward to meeting other programmers of all types. Feel free to reach out!
 
-📫 Email: dshan040@uottawa.ca (school)
-          humanthe2nd@gmail.com (personal)
+📫 Email: dshan040@uottawa.ca (school) or 3shandan@gmail.com (personal)
 
 📫 Discord: 1std
 
