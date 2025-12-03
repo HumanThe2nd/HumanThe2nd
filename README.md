@@ -8,7 +8,7 @@
 
 - Languages: C/C++, Python, Java, HTML, CSS, Javascript
 
-## Always looking forward to meeting other programmers of all types. Feel free to reach out!
+## Feel free to reach out! <br>Always happy to meet new people :)
 
 📫 Email: dshan040@uottawa.ca (school) or 3shandan@gmail.com (personal)
 
