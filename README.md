@@ -22,17 +22,26 @@
 
 ### Github Stats
 <!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
-<p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Dan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HumanThe2nd&theme=github-dark"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HumanThe2nd">
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=HumanThe2nd&show_icons=true&theme=gotham" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HumanThe2nd">
+        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=HumanThe2nd&theme=gotham" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br/> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HumanThe2nd&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 ### Leetcode Stats & Link
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HumanThe1st?theme=dark)
 
-Last updated: 2025-06-27
+Last updated: 2026-01-10
 <!---
 HumanThe2nd/HumanThe2nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
