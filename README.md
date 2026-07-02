@@ -2,19 +2,23 @@
 
 - Engineering undergrad at Uottawa
 
+- Firmware developer intern at Ford Motor Company for summer 2026
+
 - Aliases / handles: HumanThe1st, HumanThe2nd, 1s, 1sd, etc.
 
 - Interests: Projects, competitive programming and sports 
 
 - Languages: C/C++, Python, Java, HTML, CSS, Javascript
 
-## Feel free to reach out! <br>Always happy to meet new people :)
+## Feel free to [connect](https://www.linkedin.com/in/danshan1st/) with me!<br><br>Always happy to meet new people :)
 
-📫 Email: dshan040@uottawa.ca (school) or 3shandan@gmail.com (personal)
+📫 School email: dshan040@uottawa.ca
+
+📫 Personal email: 3shandan@gmail.com
+
+📫 Linkedin: [danshan1st](https://www.linkedin.com/in/danshan1st/)
 
 📫 Discord: 1std
-
-📫 Linkedin: <https://www.linkedin.com/in/danshan1st/>
 
 ### My portfolio
 
