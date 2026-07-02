@@ -2,7 +2,7 @@
 
 - Engineering undergrad at Uottawa
 
-- Firmware developer intern at Ford Motor Company for summer 2026
+- Firmware dev intern @ Ford Motor Company (Summer 2026)
 
 - Aliases / handles: HumanThe1st, HumanThe2nd, 1s, 1sd, etc.
 
