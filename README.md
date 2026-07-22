@@ -1,11 +1,25 @@
-# 🌼 [Visit my Portfolio](https://humanthe2nd.vercel.app) 🌼
+### Hi, I'm [Daniel / HumanThe2nd](https://humanthe2nd.vercel.app)🌼
 
-📫 School email: dshan040@uottawa.ca <br>
-📫 Personal email: 3shandan@gmail.com <br>
-📫 Linkedin: [danshan1st](https://www.linkedin.com/in/danshan1st/) <br>
-📫 Discord: 1std
+#### Some stats
+<!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HumanThe2nd">
+        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=HumanThe2nd&show_icons=true&theme=gotham" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HumanThe2nd">
+        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=HumanThe2nd&theme=gotham" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Some stuff I've used:
+![LeetCode Stats](https://leetcard.jacoblin.cool/HumanThe1st?theme=dark)
+
+#### Some tools:
 <!--- Languages -->
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
@@ -29,31 +43,6 @@
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-
-### Github Stats
-<!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HumanThe2nd">
-        <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=HumanThe2nd&show_icons=true&theme=gotham" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HumanThe2nd">
-        <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=HumanThe2nd&theme=gotham" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Leetcode Stats & Link
-![LeetCode Stats](https://leetcard.jacoblin.cool/HumanThe1st?theme=dark)
-
 ![今ここで限界を超える](https://i.pinimg.com/736x/0e/35/11/0e351190e9bd1711b59b7d0207d91930.jpg)
 
-Last updated: 2026-07-21
-<!---
-HumanThe2nd/HumanThe2nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Last updated: 2026-07-22
