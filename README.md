@@ -1,4 +1,4 @@
-## $\color{#9500FF}{\text{Hi, I'm:}}$ [*Daniel*](https://humanthe2nd.vercel.app) 🌼
+## $\color{#9500FF}{\text{Hi, I'm:}}$ [*Daniel*](https://humanthe2nd.vercel.app)🌻
 
 ### $\color{#E60036}{\text{Some Stats}}$
 <!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
