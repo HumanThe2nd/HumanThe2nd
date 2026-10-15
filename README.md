@@ -55,6 +55,6 @@
 
 ### $\color{#E60036}{\text{今ここで限界を超える}}$
 
-![今ここで限界を超える](https://i.pinimg.com/736x/0e/35/11/0e351190e9bd1711b59b7d0207d91930.jpg)
+![今ここで限界を超える]([https://i.pinimg.com/736x/0e/35/11/0e351190e9bd1711b59b7d0207d91930.jpg](https://media.discordapp.net/attachments/777408557595230259/1560112517035069541/image.png?ex=6ad18781&is=6ad03601&hm=476734ef3447c90d9845033df5b83b9cba759630ee0ec174b0cc279755e35f83))
 
-Last updated: 2026-07-24
+Last updated: 2026-10-14
