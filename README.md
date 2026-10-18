@@ -1,6 +1,6 @@
-## $\color{#E60036}{\text{Hi, I'm}}$ [Daniel](https://humanthe2nd.vercel.app)🌻
+## $\color{#a80223}{\text{Hi, I'm}}$ [Daniel](https://humanthe2nd.vercel.app)🌻
 
-### $\color{#470101}{\text{Some Stats}}$
+### $\color{#E60036}{\text{Some Stats}}$
 <!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
 <table>
   <tr>
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-### $\color{#470101}{\text{Some Tools}}$
+### $\color{#E60036}{\text{Some Tools}}$
 <!--- Languages -->
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
