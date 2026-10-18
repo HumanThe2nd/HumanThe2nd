@@ -1,6 +1,6 @@
 ## $\color{#E60036}{\text{Hi, I'm}}$ [Daniel](https://humanthe2nd.vercel.app)🌻
 
-### $\color{#E60036}{\text{Some Stats}}$
+### $\color{#470101}{\text{Some Stats}}$
 <!--- <img src = "https://github-readme-stats.vercel.app/api?username=HumanThe2nd&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/> (alternative stat display)--->
 <table>
   <tr>
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-### $\color{#E60036}{\text{Some Tools}}$
+### $\color{#470101}{\text{Some Tools}}$
 <!--- Languages -->
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
@@ -55,6 +55,6 @@
 
 ### $\color{#E60036}{\text{今ここで限界を超える}}$
 
-![今ここで限界を超える](https://media.discordapp.net/attachments/777408557595230259/1560112517035069541/image.png?ex=6ad18781&is=6ad03601&hm=476734ef3447c90d9845033df5b83b9cba759630ee0ec174b0cc279755e35f83)
+![今ここで限界を超える](https://i.ibb.co/nNPx7tyx/image.webp)
 
 Last updated: 2026-10-14
