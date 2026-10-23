@@ -53,6 +53,6 @@
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-![mentality](https://postimg.cc/gx6qjDLq)
+![mentality](https://postimg.cc/mcpbnQVm)
 
 Last updated: 2026-10-14
