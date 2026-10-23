@@ -53,8 +53,6 @@
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-### $\color{#E60036}{\text{今ここで限界を超える}}$
-
-![今ここで限界を超える](https://i.ibb.co/nNPx7tyx/image.webp)
+![mentality](https://postimg.cc/gx6qjDLq)
 
 Last updated: 2026-10-14
